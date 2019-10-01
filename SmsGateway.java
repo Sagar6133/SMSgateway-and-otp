@@ -112,7 +112,7 @@ public class SendingPage extends javax.swing.JFrame {
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {                                         
     try {
 			// Construct data
-			String apiKey = "apikey=" + "nS1A0IAMZxc-66cFewqJG2yY9Z7CwNX5ye5ifztGWr";
+			String apiKey = "apikey=" + "**********";
 			String message = "&message=" + mess.getText();
 			String sender = "&sender=" + "TXTLCL";
 			String numbers = "&numbers=" + number.getText();
